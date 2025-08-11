@@ -15,11 +15,6 @@ I’m Artem🐯, a computer science student and backend developer passionate abo
 
 
 
-# 📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tmchhhhhhhhhhhhh&theme=dark&show_icons=true" alt="Artem's GitHub Stats" /><br/> <img src="https://nirzak-streak-stats.vercel.app/?user=tmchhhhhhhhhhhhh&theme=dark" alt="GitHub Streak" /><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmchhhhhhhhhhhhh&theme=dark&layout=compact" alt="Top Languages" /> </div>
-
-
-
 ## 📫 Contact
 I’m always open to communication and collaboration💪💪💪 — feel free to reach out via [GitHub](https://github.com/tmchhhhhhhhhhhhh) or [Telegram](https://t.me/tmchh).
 ##
