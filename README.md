@@ -25,7 +25,7 @@ I’m Artem🐯, a computer science student and backend developer passionate abo
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 📫 Contact
-I’m always open to communication and collaboration💪💪💪 — feel free to reach out via [Telegram](https://t.me/tmchh).
+I’m always open to communication and collaboration💪💪💪 — feel free to reach out via [Telegram](https://t.me/tmchiscrazy).
 
 <p align="center">
   <img src="https://github.com/tmchhhhhhhhhhhhh/assets/blob/main/tiger2.jpg?raw=true" alt="Funny Tiger Face" width="400"/>
